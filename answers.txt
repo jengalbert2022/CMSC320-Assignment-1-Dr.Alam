@@ -6,3 +6,6 @@ Answer: Artificial Intelligence, because the entire premise of AI is to train of
 
 Q3: What is the difference between merging and rebasing?
 Answer: Merging is when there are distinct of different branches kept, which preserves the history of the entire repository. Rebasing is when the commits are moved from the source to target branch which results in a linear history.
+
+Q4: What skills do you hope to improve during this course?
+Answer: SQL as a whole but also being more efficient in sorting through large datasets.
