@@ -1,2 +1,6 @@
 Q1: Why might be consider using git?
 Answer: To streamline working on the same coding project when on a team and there are multiple users working on it at different teams.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+Answer: Artificial Intelligence, because the entire premise of AI is to train off of large data sets which requires the science of data.
+
