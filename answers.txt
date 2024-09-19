@@ -4,3 +4,5 @@ Answer: To streamline working on the same coding project when on a team and ther
 Q2: What field could data science be applied to? Give and Example and how it might help
 Answer: Artificial Intelligence, because the entire premise of AI is to train off of large data sets which requires the science of data.
 
+Q3: What is the difference between merging and rebasing?
+Answer: Merging is when there are distinct of different branches kept, which preserves the history of the entire repository. Rebasing is when the commits are moved from the source to target branch which results in a linear history.
