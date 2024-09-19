@@ -1,0 +1,2 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+Answer: Artificial Intelligence, because the entire premise of AI is to train off of large data sets which requires the science of data.
